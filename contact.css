@@ -1,0 +1,8 @@
+    <style>
+        input, textarea {
+            transition: all 0.3s ease;
+        }
+        input:focus, textarea:focus {
+            box-shadow: 0 0 0 3px rgba(236, 72, 153, 0.1);
+        }
+    </style>
